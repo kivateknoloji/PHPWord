@@ -81,16 +81,18 @@ class CheckBox extends Text
      * set default checked status
      * @param bool $default
      */
-    public function setDefault($default = false)
+    public function setDefault(bool $default = false)
     {
         $this->default = $default;
+        return $this;
     }
 
     /**
      * get default checked status
      * @return bool
      */
-    public function getDefault(){
+    public function getDefault(): bool
+    {
         return $this->default;
     }
 }

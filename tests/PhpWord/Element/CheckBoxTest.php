@@ -88,7 +88,8 @@ class CheckBoxTest extends \PHPUnit\Framework\TestCase
     /**
      * Get default
      */
-    public function testDefault(){
+    public function testDefault(): void
+    {
         $oCheckBox = new CheckBox('chkBox');
         $this->assertFalse($oCheckBox->getDefault());
 
