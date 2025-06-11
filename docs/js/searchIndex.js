@@ -871,25 +871,25 @@ Search.appendIndex(
             "summary": "Get\u0020name\u0020content.",
             "url": "classes/PhpOffice-PhpWord-Element-CheckBox.html#method_getName"
         },                {
-            "fqsen": "\\PhpOffice\\PhpWord\\Element\\CheckBox\u003A\u003AsetDefault\u0028\u0029",
-            "name": "setDefault",
-            "summary": "set\u0020default\u0020checked\u0020status.",
-            "url": "classes/PhpOffice-PhpWord-Element-CheckBox.html#method_setDefault"
+            "fqsen": "\\PhpOffice\\PhpWord\\Element\\CheckBox\u003A\u003AsetDefaultChecked\u0028\u0029",
+            "name": "setDefaultChecked",
+            "summary": "Set\u0020default\u0020state.",
+            "url": "classes/PhpOffice-PhpWord-Element-CheckBox.html#method_setDefaultChecked"
         },                {
-            "fqsen": "\\PhpOffice\\PhpWord\\Element\\CheckBox\u003A\u003AisDefault\u0028\u0029",
-            "name": "isDefault",
-            "summary": "get\u0020default\u0020checked\u0020status.",
-            "url": "classes/PhpOffice-PhpWord-Element-CheckBox.html#method_isDefault"
+            "fqsen": "\\PhpOffice\\PhpWord\\Element\\CheckBox\u003A\u003AisDefaultChecked\u0028\u0029",
+            "name": "isDefaultChecked",
+            "summary": "Is\u0020default\u0020state\u0020checked\u003F",
+            "url": "classes/PhpOffice-PhpWord-Element-CheckBox.html#method_isDefaultChecked"
         },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Element\\CheckBox\u003A\u003A\u0024name",
             "name": "name",
             "summary": "Name\u0020content.",
             "url": "classes/PhpOffice-PhpWord-Element-CheckBox.html#property_name"
         },                {
-            "fqsen": "\\PhpOffice\\PhpWord\\Element\\CheckBox\u003A\u003A\u0024default",
-            "name": "default",
-            "summary": "Default\u0020value.",
-            "url": "classes/PhpOffice-PhpWord-Element-CheckBox.html#property_default"
+            "fqsen": "\\PhpOffice\\PhpWord\\Element\\CheckBox\u003A\u003A\u0024defaultChecked",
+            "name": "defaultChecked",
+            "summary": "Default\u0020state.",
+            "url": "classes/PhpOffice-PhpWord-Element-CheckBox.html#property_defaultChecked"
         },                {
             "fqsen": "\\PhpOffice\\PhpWord\\Element\\Comment",
             "name": "Comment",
